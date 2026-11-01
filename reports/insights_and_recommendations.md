@@ -1,7 +1,7 @@
 # Walmart Black Friday: Confidence Interval and CLT – Insights and Recommendations
 
 **PDF of the notebook:** <paste your Google Drive link here>
-**Full project (code, data, charts):** <paste your GitHub repo link here>
+**Full project (code, data, charts):** https://github.com/dot-hpg/walmart-black-friday-clt-analysis
 
 ## Key insights
 
